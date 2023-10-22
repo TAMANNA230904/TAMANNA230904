@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning Web Development
 - 📫 Reach me @ tamanna.ml.2026@gmail.com
 - Expertise in:
-💡 Expertise in Data Structures and Algorithms.
--
-💻 Specialized in data analysis using Python and Machine Learning.
+  -💡 Expertise in Data Structures and Algorithms.
+  -💻 Specialized in data analysis using Python and Machine Learning.
 
 
 <!---
