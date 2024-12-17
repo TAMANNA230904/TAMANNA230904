@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, Machine Learning**
 
-- 📫 How to reach me **tamanna.ml.2026@gmail.com**
+- 📫 How to reach me **tamannasheikh2304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
